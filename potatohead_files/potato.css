@@ -28,6 +28,11 @@ label {
 #potato img {
     position: absolute;
 }
+#nose_image {
+    top : 60px;
+    left: 130px;
+}
+
 
 #arms_image {
   top: 150px;
@@ -39,6 +44,12 @@ label {
     left:119px;
     background-image:url("https://38.media.tumblr.com/504cb94fe0f41e563f435ee2f833dcb5/tumblr_n47d7f7uFv1rt5pgzo1_400.gif");
 }
+#belt_image{
+    top:220px;
+    left:75px;
+    width:200px;
+}
+
 
 #w3c {
 	margin-top: 3em;
@@ -60,3 +71,17 @@ label {
     left:45px;
    image:
 }
+<<<<<<< HEAD
+
+#parrot_image {
+    height:100px;
+    width:100px;
+    right:10px;
+    top:100px;
+}
+=======
+#hat_image{
+ top:20px;    
+ left: 94px;
+}
+>>>>>>> a4f92e37263e76a342ca49d731432dce9d535503
