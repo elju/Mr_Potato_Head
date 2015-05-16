@@ -28,6 +28,11 @@ label {
 #potato img {
     position: absolute;
 }
+#nose_image {
+    top : 60px;
+    left: 130px;
+}
+
 
 #arms_image {
   top: 150px;
