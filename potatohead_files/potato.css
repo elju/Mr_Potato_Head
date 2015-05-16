@@ -28,6 +28,11 @@ label {
 #potato img {
     position: absolute;
 }
+#nose_image {
+    top : 60px;
+    left: 130px;
+}
+
 
 #arms_image {
   top: 150px;
@@ -46,6 +51,12 @@ label {
 
 #w3c img {
 	border: 0;
+}
+
+
+#eyes_image{
+ top:90px;
+ left:125px;
 }
 
 #ears_image{
