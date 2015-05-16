@@ -38,6 +38,12 @@ label {
     top: 80px; 
     left:119px;
 }
+#belt_image{
+    top:220px;
+    left:75px;
+    width:200px;
+}
+
 
 #w3c {
 	margin-top: 3em;
