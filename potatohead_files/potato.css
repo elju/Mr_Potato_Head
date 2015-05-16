@@ -58,3 +58,10 @@ label {
     top:40px;
     left:45px;
 }
+
+#parrot_image {
+    height:100px;
+    width:100px;
+    right:10px;
+    top:100px;
+}
